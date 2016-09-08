@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.6.0" Device="mustang" Modified="2016-09-08 14:43:54 -0400" ModID="24DC3CDF-D6B2-4FBA-94AA-D56F9391A3DF">
+    <Binder>
+        <BinderItem ID="0" UUID="70743D40-7CA3-4E5D-B8AD-419ABB7AC924" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:05:14 -0400" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="C318A0B6-59CB-4E26-85E3-70992DAB5EF4" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:33:14 -0400" Type="Text">
+                    <Title>Abstract</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>347,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="D7CBB419-93CF-4BCB-86E0-01CDC82BB6DF" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-08 12:38:22 -0400" Type="Text">
+                    <Title>Question 1</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="E3C8AE1B-A312-4225-A3A1-D42F8D8210D6" Created="2016-09-08 12:15:04 -0400" Modified="2016-09-08 12:38:28 -0400" Type="Text">
+                    <Title>Question 2</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="F138E6E4-9025-45AE-B1A4-DBEF4EBD6BDE" Created="2016-09-08 12:27:15 -0400" Modified="2016-09-08 12:38:34 -0400" Type="Text">
+                    <Title>Question 3</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>447,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="D6AF989C-06BD-41B6-9F9D-AA4634C56FCB" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:05:14 -0400" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="5" UUID="5F30754E-EC95-4A1A-AC4D-C3555D7763BD" Created="2016-09-01 15:33:03 -0400" Modified="2016-09-01 15:33:03 -0400" Type="PDF">
+                    <Title>ACallforEvidenceandInput-TheReserchers</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="AD17A15C-574C-48B7-A22A-B10B002AC5BE" Created="2016-09-01 14:05:07 -0400" Modified="2016-09-01 14:05:07 -0400" Type="PDF">
+                    <Title>CAP_FederalScienceReview_draft20160831</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="BEFBCBA0-8E61-485D-AE51-F428F6FD82A1" Created="2016-09-01 14:08:39 -0400" Modified="2016-09-01 14:08:29 -0400" Type="PDF">
+                    <Title>Coalition for Canadian Astronomy - 2017 Pre-budget submission</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
+                <BinderItem ID="10" UUID="338458E5-FA86-4DD5-A3FC-8E289133B886" Created="2016-09-06 10:31:44 -0400" Modified="2016-09-06 13:57:45 -0400" Type="Text">
+                    <Title>fsresponse</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" UUID="8B39AD0C-EDF5-421E-88C3-865B1A286CEE" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:05:14 -0400" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2016-09-08 13:51:15 -0400"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="AA384277-3E46-4363-A542-21E479B45B4F" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="749903D1-0EFF-44CB-8A95-5AE3062522B1" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="Letter" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>
