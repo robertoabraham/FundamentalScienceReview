@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Julies-MacBook" Modified="2016-09-08 20:22:04 -0400" ModID="FEB922D2-70EE-4521-8249-622753171159">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Julies-MacBook" Modified="2016-09-08 20:24:41 -0400" ModID="636DD328-2087-47E0-8AD8-50B48C216D5C">
     <Binder>
         <BinderItem ID="0" UUID="70743D40-7CA3-4E5D-B8AD-419ABB7AC924" Type="DraftFolder" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:05:14 -0400">
             <Title>Draft</Title>
@@ -25,7 +25,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3386,0</TextSelection>
+                        <TextSelection>157,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem ID="14" UUID="0DF59CEB-12A8-46B5-8E3A-89564036E951" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-08 20:21:04 -0400">
@@ -50,8 +50,8 @@
                         <TextSelection>0,214</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="15" UUID="30A6D23D-9D3C-40D2-94B4-4DFBDE68709A" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-08 20:21:04 -0400">
-                    <Title>Question 11</Title>
+                <BinderItem ID="15" UUID="30A6D23D-9D3C-40D2-94B4-4DFBDE68709A" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-08 20:24:25 -0400">
+                    <Title>Question 12</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -61,8 +61,8 @@
                         <TextSelection>0,73</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="16" UUID="1A4A609B-0C69-4E8A-9D83-12C5B7B5D9A5" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-08 20:21:04 -0400">
-                    <Title>Question 12</Title>
+                <BinderItem ID="16" UUID="1A4A609B-0C69-4E8A-9D83-12C5B7B5D9A5" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-08 20:24:22 -0400">
+                    <Title>Question 13</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -102,7 +102,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,173</TextSelection>
+                        <TextSelection>182,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -154,7 +154,7 @@
                         <NotesTextSelection>0,0</NotesTextSelection>
                     </MetaData>
                     <MediaSettings>
-                        <CurrentPDFPage>0</CurrentPDFPage>
+                        <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
                 <BinderItem ID="8" UUID="AD17A15C-574C-48B7-A22A-B10B002AC5BE" Type="PDF" Created="2016-09-01 14:05:07 -0400" Modified="2016-09-01 14:05:07 -0400">
@@ -233,7 +233,7 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2016-09-08 15:28:31 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
-        <PreviousSession Words="2" Characters="30" Date="2016-09-08 15:28:31 -0400"></PreviousSession>
+        <PreviousSession Words="2" Characters="30" Date="2016-09-08 20:22:52 -0400"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="0.0" RightMargin="0.0" TopMargin="0.0" BottomMargin="0.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
