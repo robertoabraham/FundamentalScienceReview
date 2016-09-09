@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.6.0" Device="mustang" Modified="2016-09-09 13:57:53 -0400" ModID="3DF05111-40C6-45EE-B3EB-C4A6B835E381">
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.6.0" Device="mustang" Modified="2016-09-09 18:07:47 -0400" ModID="DCC7BE13-0427-45A8-92F4-4522877A8286">
     <Binder>
         <BinderItem ID="0" UUID="70743D40-7CA3-4E5D-B8AD-419ABB7AC924" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:05:14 -0400" Type="DraftFolder">
             <Title>Draft</Title>
@@ -7,80 +7,58 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" UUID="C318A0B6-59CB-4E26-85E3-70992DAB5EF4" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:33:14 -0400" Type="Text">
-                    <Title>Abstract</Title>
-                    <MetaData>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>347,0</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="13" UUID="FA8966AA-881E-4819-AD5E-FC08B8AADDC9" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 11:06:08 -0400" Type="Text">
+                <BinderItem ID="13" UUID="FA8966AA-881E-4819-AD5E-FC08B8AADDC9" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 18:07:29 -0400" Type="Text">
                     <Title>Question 1</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1625,0</TextSelection>
+                        <TextSelection>165,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="14" UUID="0DF59CEB-12A8-46B5-8E3A-89564036E951" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 10:25:28 -0400" Type="Text">
+                <BinderItem ID="14" UUID="0DF59CEB-12A8-46B5-8E3A-89564036E951" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 18:07:45 -0400" Type="Text">
                     <Title>Question 5</Title>
                     <MetaData>
                         <StatusID>2</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>806,0</TextSelection>
+                        <TextSelection>325,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="16" UUID="1A4A609B-0C69-4E8A-9D83-12C5B7B5D9A5" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 10:32:36 -0400" Type="Text">
-                    <Title>Question 13</Title>
-                    <MetaData>
-                        <StatusID>3</StatusID>
-                        <IncludeInCompile>Yes</IncludeInCompile>
-                        <FileExtension>rtf</FileExtension>
-                    </MetaData>
-                    <TextSettings>
-                        <TextSelection>793,0</TextSelection>
-                        <Target Type="Words">0</Target>
-                    </TextSettings>
-                </BinderItem>
-                <BinderItem ID="17" UUID="2D43B5E8-B80A-42C3-89DA-DF6853D3B1A0" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 10:47:44 -0400" Type="Text">
+                <BinderItem ID="17" UUID="2D43B5E8-B80A-42C3-89DA-DF6853D3B1A0" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 17:51:37 -0400" Type="Text">
                     <Title>Question 15</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>2089,0</TextSelection>
+                        <TextSelection>205,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="18" UUID="AFCBCA98-E3CC-4B93-9CDA-E1A1B4EA2B3C" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 10:31:28 -0400" Type="Text">
+                <BinderItem ID="18" UUID="AFCBCA98-E3CC-4B93-9CDA-E1A1B4EA2B3C" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 17:51:42 -0400" Type="Text">
                     <Title>Question 17</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>321,0</TextSelection>
+                        <TextSelection>320,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="19" UUID="13672B08-252C-4428-8477-596ED8AD9414" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 13:57:51 -0400" Type="Text">
+                <BinderItem ID="19" UUID="13672B08-252C-4428-8477-596ED8AD9414" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 18:06:50 -0400" Type="Text">
                     <Title>Question 19</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>3879,0</TextSelection>
+                        <TextSelection>6402,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -134,9 +112,23 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>0,73</TextSelection>
+                        <TextSelection>92,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
+                    <Children>
+                        <BinderItem ID="16" UUID="1A4A609B-0C69-4E8A-9D83-12C5B7B5D9A5" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 17:44:26 -0400" Type="Text">
+                            <Title>Question 13</Title>
+                            <MetaData>
+                                <StatusID>3</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>519,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
                 </BinderItem>
             </Children>
         </BinderItem>
@@ -176,6 +168,16 @@
                         <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
+                <BinderItem ID="21" UUID="700B880C-7700-4A61-B501-52AEED23D2F6" Created="2016-09-09 17:35:10 -0400" Modified="2016-09-09 17:35:11 -0400" Type="PDF">
+                    <Title>NSF's _Broader Impacts_ Criterion Gets Mixed Reviews</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>pdf</FileExtension>
+                    </MetaData>
+                    <MediaSettings>
+                        <CurrentPDFPage>1</CurrentPDFPage>
+                    </MediaSettings>
+                </BinderItem>
                 <BinderItem ID="10" UUID="338458E5-FA86-4DD5-A3FC-8E289133B886" Created="2016-09-06 10:31:44 -0400" Modified="2016-09-06 13:57:45 -0400" Type="Text">
                     <Title>fsresponse</Title>
                     <MetaData>
@@ -183,7 +185,7 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>5596,0</TextSelection>
+                        <TextSelection>12665,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -194,7 +196,7 @@
                         <FileExtension>rtf</FileExtension>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1109,0</TextSelection>
+                        <TextSelection>1486,0</TextSelection>
                         <Target Type="Words">0</Target>
                     </TextSettings>
                 </BinderItem>
@@ -205,6 +207,19 @@
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="C318A0B6-59CB-4E26-85E3-70992DAB5EF4" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:33:14 -0400" Type="Text">
+                    <Title>Abstract</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>347,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
         </BinderItem>
     </Binder>
     <LabelSettings>
@@ -232,7 +247,7 @@
     <ProjectTargets>
         <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2016-09-08 15:28:31 -0400" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="638" Characters="4432" Date="2016-09-09 08:24:01 -0400"/>
+        <PreviousSession Words="727" Characters="5077" Date="2016-09-09 08:24:01 -0400"/>
     </ProjectTargets>
     <Collections>
         <Collection Type="Binder" ID="AA384277-3E46-4363-A542-21E479B45B4F" Color="0.901961 0.917647 0.933333">
@@ -243,5 +258,10 @@
             <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No">?</SearchSettings>
         </Collection>
     </Collections>
+    <ProjectProperties>
+        <ProjectTitle>CASCA Input to Fundamental Science Review</ProjectTitle>
+        <LastName>Abraham</LastName>
+        <FirstName>Roberto</FirstName>
+    </ProjectProperties>
     <PrintSettings PaperType="A4" LeftMargin="0" RightMargin="0" TopMargin="0" BottomMargin="0" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
 </ScrivenerProject>
