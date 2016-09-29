@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Abraham-MacBook" Modified="2016-09-21 21:54:53 -0400" ModID="1714DA67-1B39-45A4-8CD3-0D61DA55DAC5">
+<ScrivenerProject Version="1.5" Creator="SCRMAC-2.8-26284" Device="Abraham-MacBook" Modified="2016-09-28 21:10:27 -0600" ModID="D7CF8F5B-9705-4FBC-AC62-23999B58D782">
     <Binder>
-        <BinderItem ID="0" UUID="70743D40-7CA3-4E5D-B8AD-419ABB7AC924" Type="DraftFolder" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:05:14 -0400">
+        <BinderItem ID="0" UUID="70743D40-7CA3-4E5D-B8AD-419ABB7AC924" Type="DraftFolder" Created="2016-09-08 10:05:14 -0600" Modified="2016-09-08 10:05:14 -0600">
             <Title>Draft</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="13" UUID="FA8966AA-881E-4819-AD5E-FC08B8AADDC9" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-21 21:40:30 -0400">
+                <BinderItem ID="13" UUID="FA8966AA-881E-4819-AD5E-FC08B8AADDC9" Type="Text" Created="2016-09-08 10:06:27 -0600" Modified="2016-09-21 19:40:30 -0600">
                     <Title>Question 1</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
@@ -18,7 +18,7 @@
                         <TextSelection>5288,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="14" UUID="0DF59CEB-12A8-46B5-8E3A-89564036E951" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-21 21:42:18 -0400">
+                <BinderItem ID="14" UUID="0DF59CEB-12A8-46B5-8E3A-89564036E951" Type="Text" Created="2016-09-08 10:06:27 -0600" Modified="2016-09-21 19:42:18 -0600">
                     <Title>Question 5</Title>
                     <MetaData>
                         <StatusID>2</StatusID>
@@ -30,7 +30,7 @@
                         <TextSelection>904,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="17" UUID="2D43B5E8-B80A-42C3-89DA-DF6853D3B1A0" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-21 21:47:10 -0400">
+                <BinderItem ID="17" UUID="2D43B5E8-B80A-42C3-89DA-DF6853D3B1A0" Type="Text" Created="2016-09-08 10:06:27 -0600" Modified="2016-09-28 21:10:27 -0600">
                     <Title>Question 15</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
@@ -42,7 +42,7 @@
                         <TextSelection>3383,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="18" UUID="AFCBCA98-E3CC-4B93-9CDA-E1A1B4EA2B3C" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-20 21:36:17 -0400">
+                <BinderItem ID="18" UUID="AFCBCA98-E3CC-4B93-9CDA-E1A1B4EA2B3C" Type="Text" Created="2016-09-08 10:06:27 -0600" Modified="2016-09-20 19:36:17 -0600">
                     <Title>Question 17</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
@@ -54,7 +54,7 @@
                         <TextSelection>2129,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="19" UUID="13672B08-252C-4428-8477-596ED8AD9414" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-21 21:53:58 -0400">
+                <BinderItem ID="19" UUID="13672B08-252C-4428-8477-596ED8AD9414" Type="Text" Created="2016-09-08 10:06:27 -0600" Modified="2016-09-21 19:53:58 -0600">
                     <Title>Question 19</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
@@ -68,7 +68,7 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="12" UUID="A5D8ABB3-AC22-49D4-81DF-885097C62371" Type="Folder" Created="2016-09-08 19:40:25 -0400" Modified="2016-09-08 19:40:30 -0400">
+        <BinderItem ID="12" UUID="A5D8ABB3-AC22-49D4-81DF-885097C62371" Type="Folder" Created="2016-09-08 17:40:25 -0600" Modified="2016-09-08 17:40:30 -0600">
             <Title>Unused</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -79,7 +79,7 @@
                 <TextSelection>0,0</TextSelection>
             </TextSettings>
             <Children>
-                <BinderItem ID="6" UUID="E3C8AE1B-A312-4225-A3A1-D42F8D8210D6" Type="Text" Created="2016-09-08 12:15:04 -0400" Modified="2016-09-08 12:38:28 -0400">
+                <BinderItem ID="6" UUID="E3C8AE1B-A312-4225-A3A1-D42F8D8210D6" Type="Text" Created="2016-09-08 10:15:04 -0600" Modified="2016-09-08 10:38:28 -0600">
                     <Title>Question 2</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -89,7 +89,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="7" UUID="F138E6E4-9025-45AE-B1A4-DBEF4EBD6BDE" Type="Text" Created="2016-09-08 12:27:15 -0400" Modified="2016-09-08 20:14:27 -0400">
+                <BinderItem ID="7" UUID="F138E6E4-9025-45AE-B1A4-DBEF4EBD6BDE" Type="Text" Created="2016-09-08 10:27:15 -0600" Modified="2016-09-08 18:14:27 -0600">
                     <Title>Question 3</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -99,7 +99,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="4" UUID="D7CBB419-93CF-4BCB-86E0-01CDC82BB6DF" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 10:19:58 -0400">
+                <BinderItem ID="4" UUID="D7CBB419-93CF-4BCB-86E0-01CDC82BB6DF" Type="Text" Created="2016-09-08 10:06:27 -0600" Modified="2016-09-09 08:19:58 -0600">
                     <Title>Question 8</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
@@ -111,7 +111,7 @@
                         <TextSelection>252,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="15" UUID="30A6D23D-9D3C-40D2-94B4-4DFBDE68709A" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-08 20:24:25 -0400">
+                <BinderItem ID="15" UUID="30A6D23D-9D3C-40D2-94B4-4DFBDE68709A" Type="Text" Created="2016-09-08 10:06:27 -0600" Modified="2016-09-08 18:24:25 -0600">
                     <Title>Question 12</Title>
                     <MetaData>
                         <StatusID>3</StatusID>
@@ -123,7 +123,7 @@
                         <TextSelection>92,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="16" UUID="1A4A609B-0C69-4E8A-9D83-12C5B7B5D9A5" Type="Text" Created="2016-09-08 12:06:27 -0400" Modified="2016-09-09 17:44:26 -0400">
+                        <BinderItem ID="16" UUID="1A4A609B-0C69-4E8A-9D83-12C5B7B5D9A5" Type="Text" Created="2016-09-08 10:06:27 -0600" Modified="2016-09-09 15:44:26 -0600">
                             <Title>Question 13</Title>
                             <MetaData>
                                 <StatusID>3</StatusID>
@@ -139,13 +139,13 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="1" UUID="D6AF989C-06BD-41B6-9F9D-AA4634C56FCB" Type="ResearchFolder" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:05:14 -0400">
+        <BinderItem ID="1" UUID="D6AF989C-06BD-41B6-9F9D-AA4634C56FCB" Type="ResearchFolder" Created="2016-09-08 10:05:14 -0600" Modified="2016-09-08 10:05:14 -0600">
             <Title>Research</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="5" UUID="5F30754E-EC95-4A1A-AC4D-C3555D7763BD" Type="PDF" Created="2016-09-01 15:33:03 -0400" Modified="2016-09-01 15:33:03 -0400">
+                <BinderItem ID="5" UUID="5F30754E-EC95-4A1A-AC4D-C3555D7763BD" Type="PDF" Created="2016-09-01 13:33:03 -0600" Modified="2016-09-01 13:33:03 -0600">
                     <Title>ACallforEvidenceandInput-TheReserchers</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -156,7 +156,7 @@
                         <CurrentPDFPage>0</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem ID="8" UUID="AD17A15C-574C-48B7-A22A-B10B002AC5BE" Type="PDF" Created="2016-09-01 14:05:07 -0400" Modified="2016-09-01 14:05:07 -0400">
+                <BinderItem ID="8" UUID="AD17A15C-574C-48B7-A22A-B10B002AC5BE" Type="PDF" Created="2016-09-01 12:05:07 -0600" Modified="2016-09-01 12:05:07 -0600">
                     <Title>CAP_FederalScienceReview_draft20160831</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -167,7 +167,7 @@
                         <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem ID="9" UUID="BEFBCBA0-8E61-485D-AE51-F428F6FD82A1" Type="PDF" Created="2016-09-01 14:08:39 -0400" Modified="2016-09-01 14:08:29 -0400">
+                <BinderItem ID="9" UUID="BEFBCBA0-8E61-485D-AE51-F428F6FD82A1" Type="PDF" Created="2016-09-01 12:08:39 -0600" Modified="2016-09-01 12:08:29 -0600">
                     <Title>Coalition for Canadian Astronomy - 2017 Pre-budget submission</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -178,7 +178,7 @@
                         <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem ID="21" UUID="700B880C-7700-4A61-B501-52AEED23D2F6" Type="PDF" Created="2016-09-09 17:35:10 -0400" Modified="2016-09-09 17:35:11 -0400">
+                <BinderItem ID="21" UUID="700B880C-7700-4A61-B501-52AEED23D2F6" Type="PDF" Created="2016-09-09 15:35:10 -0600" Modified="2016-09-09 15:35:11 -0600">
                     <Title>NSF's _Broader Impacts_ Criterion Gets Mixed Reviews</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -189,7 +189,7 @@
                         <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem ID="10" UUID="338458E5-FA86-4DD5-A3FC-8E289133B886" Type="Text" Created="2016-09-06 10:31:44 -0400" Modified="2016-09-06 13:57:45 -0400">
+                <BinderItem ID="10" UUID="338458E5-FA86-4DD5-A3FC-8E289133B886" Type="Text" Created="2016-09-06 08:31:44 -0600" Modified="2016-09-06 11:57:45 -0600">
                     <Title>fsresponse</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -200,7 +200,7 @@
                         <TextSelection>12665,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="20" UUID="46FACFB4-575B-414B-A756-67A54008F4E8" Type="Text" Created="2016-09-09 10:50:11 -0400" Modified="2016-09-09 10:49:52 -0400">
+                <BinderItem ID="20" UUID="46FACFB4-575B-414B-A756-67A54008F4E8" Type="Text" Created="2016-09-09 08:50:11 -0600" Modified="2016-09-09 08:49:52 -0600">
                     <Title>2017 Pre-budget submission - draft 5</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -211,7 +211,7 @@
                         <TextSelection>1486,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="22" UUID="5A57A5E6-7C7B-4013-8997-407E689C462F" Type="Folder" Created="2016-09-15 10:13:23 -0400" Modified="2016-09-15 10:13:28 -0400">
+                <BinderItem ID="22" UUID="5A57A5E6-7C7B-4013-8997-407E689C462F" Type="Folder" Created="2016-09-15 08:13:23 -0600" Modified="2016-09-15 08:13:28 -0600">
                     <Title>Feedback on initial draft</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -221,7 +221,7 @@
                         <TextSelection>0,0</TextSelection>
                     </TextSettings>
                     <Children>
-                        <BinderItem ID="24" UUID="1AE2AC06-C7C5-48E9-A88E-DB5DC3442883" Type="PDF" Created="2016-09-15 10:15:19 -0400" Modified="2016-09-15 10:15:19 -0400">
+                        <BinderItem ID="24" UUID="1AE2AC06-C7C5-48E9-A88E-DB5DC3442883" Type="PDF" Created="2016-09-15 08:15:19 -0600" Modified="2016-09-15 08:15:19 -0600">
                             <Title>Spekkens</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -232,7 +232,7 @@
                                 <CurrentPDFPage>1</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="25" UUID="9B731288-60B4-47C8-BEF6-CEF1D2E53B5E" Type="PDF" Created="2016-09-15 10:16:45 -0400" Modified="2016-09-15 10:16:45 -0400">
+                        <BinderItem ID="25" UUID="9B731288-60B4-47C8-BEF6-CEF1D2E53B5E" Type="PDF" Created="2016-09-15 08:16:45 -0600" Modified="2016-09-15 08:16:45 -0600">
                             <Title>diFrancesco</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -243,7 +243,7 @@
                                 <CurrentPDFPage>1</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="26" UUID="A2EE3E4C-1F95-4D1D-BBCA-E080C79DA418" Type="PDF" Created="2016-09-15 10:17:41 -0400" Modified="2016-09-15 14:41:55 -0400">
+                        <BinderItem ID="26" UUID="A2EE3E4C-1F95-4D1D-BBCA-E080C79DA418" Type="PDF" Created="2016-09-15 08:17:41 -0600" Modified="2016-09-15 12:41:55 -0600">
                             <Title>Wilson</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -254,7 +254,7 @@
                                 <CurrentPDFPage>1</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="27" UUID="785649FC-51F7-47C1-8057-ADEBEA12ACB8" Type="PDF" Created="2016-09-15 10:18:18 -0400" Modified="2016-09-15 10:18:18 -0400">
+                        <BinderItem ID="27" UUID="785649FC-51F7-47C1-8057-ADEBEA12ACB8" Type="PDF" Created="2016-09-15 08:18:18 -0600" Modified="2016-09-15 08:18:18 -0600">
                             <Title>St-Louis</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -265,7 +265,7 @@
                                 <CurrentPDFPage>1</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="28" UUID="ED7C2AC9-B6BE-4452-91A5-7DA7207810F3" Type="PDF" Created="2016-09-15 10:19:02 -0400" Modified="2016-09-15 10:19:02 -0400">
+                        <BinderItem ID="28" UUID="ED7C2AC9-B6BE-4452-91A5-7DA7207810F3" Type="PDF" Created="2016-09-15 08:19:02 -0600" Modified="2016-09-15 08:19:02 -0600">
                             <Title>Rosolowsky</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -276,7 +276,7 @@
                                 <CurrentPDFPage>1</CurrentPDFPage>
                             </MediaSettings>
                         </BinderItem>
-                        <BinderItem ID="29" UUID="1C0FA623-748A-41BA-9C86-5D6447E20F5A" Type="PDF" Created="2016-09-15 10:20:16 -0400" Modified="2016-09-15 10:20:16 -0400">
+                        <BinderItem ID="29" UUID="1C0FA623-748A-41BA-9C86-5D6447E20F5A" Type="PDF" Created="2016-09-15 08:20:16 -0600" Modified="2016-09-15 08:20:16 -0600">
                             <Title>Gaensler</Title>
                             <MetaData>
                                 <IncludeInCompile>Yes</IncludeInCompile>
@@ -289,7 +289,7 @@
                         </BinderItem>
                     </Children>
                 </BinderItem>
-                <BinderItem ID="30" UUID="73B47914-AF0A-4F21-9AEE-E5FDB8878892" Type="PDF" Created="2016-09-21 20:41:47 -0400" Modified="2016-09-21 21:26:41 -0400">
+                <BinderItem ID="30" UUID="73B47914-AF0A-4F21-9AEE-E5FDB8878892" Type="PDF" Created="2016-09-21 18:41:47 -0600" Modified="2016-09-21 19:26:41 -0600">
                     <Title>CASCA_FSR_Draft_jimcomments</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -300,7 +300,7 @@
                         <CurrentPDFPage>1</CurrentPDFPage>
                     </MediaSettings>
                 </BinderItem>
-                <BinderItem ID="31" UUID="6A3942B6-C51B-4517-B8AA-5904C9123C7A" Type="PDF" Created="2016-09-21 11:35:24 -0400" Modified="2016-09-21 21:26:41 -0400">
+                <BinderItem ID="31" UUID="6A3942B6-C51B-4517-B8AA-5904C9123C7A" Type="PDF" Created="2016-09-21 09:35:24 -0600" Modified="2016-09-21 19:26:41 -0600">
                     <Title>CASCA_FSR_Draft - annotated</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -313,13 +313,13 @@
                 </BinderItem>
             </Children>
         </BinderItem>
-        <BinderItem ID="2" UUID="8B39AD0C-EDF5-421E-88C3-865B1A286CEE" Type="TrashFolder" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:05:14 -0400">
+        <BinderItem ID="2" UUID="8B39AD0C-EDF5-421E-88C3-865B1A286CEE" Type="TrashFolder" Created="2016-09-08 10:05:14 -0600" Modified="2016-09-08 10:05:14 -0600">
             <Title>Trash</Title>
             <MetaData>
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem ID="3" UUID="C318A0B6-59CB-4E26-85E3-70992DAB5EF4" Type="Text" Created="2016-09-08 12:05:14 -0400" Modified="2016-09-08 12:33:14 -0400">
+                <BinderItem ID="3" UUID="C318A0B6-59CB-4E26-85E3-70992DAB5EF4" Type="Text" Created="2016-09-08 10:05:14 -0600" Modified="2016-09-08 10:33:14 -0600">
                     <Title>Abstract</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -330,7 +330,7 @@
                         <TextSelection>347,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem ID="23" UUID="D56D386E-B4FD-486A-B97E-95C9B3175AE5" Type="Other" Created="2016-09-15 10:14:20 -0400" Modified="2016-09-15 10:14:21 -0400">
+                <BinderItem ID="23" UUID="D56D386E-B4FD-486A-B97E-95C9B3175AE5" Type="Other" Created="2016-09-15 08:14:20 -0600" Modified="2016-09-15 08:14:21 -0600">
                     <Title>Re CASCA Board Drafts of feedback for the fundamental sciencereview</Title>
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
@@ -378,9 +378,9 @@
         <FirstName>Roberto</FirstName>
     </ProjectProperties>
     <ProjectTargets Notify="No">
-        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2016-09-08 15:28:31 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No" Deadline="2016-09-08 13:28:31 -0600" IgnoreDeadline="Yes">0</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="Yes">0</SessionTarget>
-        <PreviousSession Words="17" Characters="131" Date="2016-09-21 21:23:36 -0400"></PreviousSession>
+        <PreviousSession Words="83" Characters="566" Date="2016-09-28 21:06:50 -0600"></PreviousSession>
     </ProjectTargets>
     <PrintSettings PaperSize="612.0,792.0" LeftMargin="0.0" RightMargin="0.0" TopMargin="0.0" BottomMargin="0.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="No" ReverseOrder="No" PagesAcross="1" PagesDown="1"></PrintSettings>
 </ScrivenerProject>
